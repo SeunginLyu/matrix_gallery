@@ -12,5 +12,4 @@ Key Concepts:
 
 Dependencies :
 * Vue.js (or React)
-* rune.js(?)
 * node.js(?)
